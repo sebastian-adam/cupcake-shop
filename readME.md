@@ -1,7 +1,22 @@
-# This is Bang and Sebastian's Cupcake Shop Site
-### By BN and SP on May 25, 2016
+# Cupcake Shop
 
-### Description
-* On this site you can find and choose your flavor of cake and your topping
+HTML app for Epicodus 05.24.2016
+### _By Sebastian Adam Prokuski_
 
-### Thanks for stopping by
+***
+
+## Description
+This app displays the home page for a fake cupcake shop.
+
+## Installation
+
+* `$ git https://github.com/sprokusk/cupcake-shop.git`
+* `$ cd cupcake-shop`
+* `$ open index.html`
+
+## Technologies
+* HTML
+* CSS
+
+## Legal
+Copyright (c) 2016 **_{Sebastian Prokuski}_**
